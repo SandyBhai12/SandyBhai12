@@ -2,7 +2,7 @@
 
 ### Data Engineer | PySpark · Databricks · AWS · Azure · SQL
 
-I'm a Data Engineer with **1.5+ years** of hands-on experience building scalable ETL pipelines,
+I'm a Data Engineer with **1.7+ years** of hands-on experience building scalable ETL pipelines,
 implementing Medallion Architecture, and delivering analytics-ready datasets on cloud platforms.
 
 ---
